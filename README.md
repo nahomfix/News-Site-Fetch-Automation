@@ -1,1 +1,1 @@
-# News-Site-Fetch-Automation
+# Fetches News from a News Site
